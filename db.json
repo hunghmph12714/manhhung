@@ -1,0 +1,172 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Áo Trung Quốc"
+    },
+    {
+      "id": "6550655101602155",
+      "name": "Váy Ngắn"
+    },
+    {
+      "id": "46554453535020164",
+      "name": "Quần 2 ống"
+    },
+    {
+      "id": "46023356112562404",
+      "name": "Áo Váy"
+    },
+    {
+      "id": "306133656240132",
+      "name": "Quần 2 ống"
+    }
+  ],
+  "products": [
+    {
+      "id": "2615151641110541",
+      "name": "Váy 1 ống",
+      "price": 40000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/E1266601_%285398889640%29.jpg/1200px-E1266601_%285398889640%29.jpg",
+      "categoryId": "2",
+      "status": "false"
+    },
+    {
+      "id": "21",
+      "name": "Váy hai ống",
+      "price": 222223,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/E1266601_%285398889640%29.jpg/1200px-E1266601_%285398889640%29.jpg",
+      "categoryId": "2",
+      "status": "false"
+    },
+    {
+      "id": "33",
+      "name": "product4",
+      "price": 2800000,
+      "image": "https://cf.shopee.vn/file/4183bad194fb97a1ee9441c7c3c9af51",
+      "categoryId": "6550655101602155",
+      "status": "false"
+    },
+    {
+      "id": "02",
+      "name": "product6",
+      "price": 40000,
+      "image": "http://maytinhvietphong.vn/media/news/130_ban_phim_co_gaming_newmen_gm300_tenkeyless.jpg",
+      "categoryId": "6550655101602155",
+      "status": "false"
+    },
+    {
+      "id": "15",
+      "name": "produc7",
+      "price": 2800000,
+      "image": "https://cf.shopee.vn/file/4183bad194fb97a1ee9441c7c3c9af51",
+      "categoryId": "2",
+      "status": "true"
+    },
+    {
+      "id": "53",
+      "name": "product10",
+      "price": 40000,
+      "image": "http://maytinhvietphong.vn/media/news/130_ban_phim_co_gaming_newmen_gm300_tenkeyless.jpg",
+      "categoryId": "2",
+      "status": "false"
+    },
+    {
+      "id": "40",
+      "name": "product12",
+      "price": 2800000,
+      "image": "https://cf.shopee.vn/file/4183bad194fb97a1ee9441c7c3c9af51",
+      "categoryId": "2",
+      "status": "true"
+    },
+    {
+      "id": 24,
+      "name": "ducky xxxhung166666w",
+      "price": 2800000,
+      "image": "https://bazaarvietnam.vn/wp-content/uploads/2020/02/loi-khuyen-thoi-trang-a.jpg",
+      "categoryId": "2",
+      "status": "false"
+    },
+    {
+      "id": 25,
+      "name": "Sản phẩm 2",
+      "price": 2800000,
+      "image": "https://vcdn-ngoisao.vnecdn.net/2020/02/19/DO-MY-LINH-3-6828-1582109584.jpg",
+      "categoryId": "2",
+      "status": "true"
+    },
+    {
+      "name": "Quần âu nữ",
+      "price": 200001,
+      "image": "https://i.pinimg.com/originals/6e/7c/2d/6e7c2d21a7bcc492f7fc203572ebdc0f.jpg",
+      "categoryId": "6550655101602155",
+      "status": "true",
+      "id": "KAYImHv"
+    },
+    {
+      "name": "Váy Nam",
+      "price": 1000,
+      "image": "https://i.pinimg.com/originals/76/88/cf/7688cf5559fb2078f65a74fe9857e17f.jpg",
+      "categoryId": "6550655101602155",
+      "status": "true",
+      "id": "S0D3Jzp"
+    },
+    {
+      "name": "firebase",
+      "price": 40000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/hung12714-fa1ef.appspot.com/o/images%2Fimg-2.jpg?alt=media&token=c3886298-6bd8-480e-bb3c-b4a7fc4a4f2d",
+      "categoryId": "46554453535020164",
+      "status": "true",
+      "id": "ncUgVmi"
+    },
+    {
+      "name": "fire 2",
+      "price": 2800000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/hung12714-fa1ef.appspot.com/o/images%2Fimg-3.jpg?alt=media&token=9ac39a77-caab-4746-b17d-55b57971bd10",
+      "categoryId": "46554453535020164",
+      "status": "true",
+      "id": "-05PEBy"
+    },
+    {
+      "name": "de mo",
+      "price": 2800000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/hung12714-fa1ef.appspot.com/o/images%2Fimg-1.jpg?alt=media&token=10407c4a-33c0-4de2-8613-405cd3b3e0ca",
+      "categoryId": "6550655101602155",
+      "status": "true",
+      "id": "enuHIfP"
+    },
+    {
+      "name": "ducky xxxhung166666w",
+      "price": 40000,
+      "image": "https://firebasestorage.googleapis.com/v0/b/hung12714-fa1ef.appspot.com/o/images%2Fimg-2.jpg?alt=media&token=226c4089-4ea0-44bf-b8c4-16abc20871c1",
+      "categoryId": "46554453535020164",
+      "status": "true",
+      "id": "DkQokuf"
+    }
+  ],
+  "users": [
+    {
+      "email": "hunghmph12714@fpt.edu.vn",
+      "password": "$2a$10$CR6hke23vp1koNIE7InQc.rWY9t/507isXtU.AQNR.9mln3o5PsMS",
+      "username": "hung123",
+      "id": 1
+    },
+    {
+      "email": "hahieu08101969@gmail.com",
+      "password": "$2a$10$C2YAn7dD83DoXyK73HF82O7RVnP4Ojn9oiEYKxY0LEvLjl4h5I0Vi",
+      "username": "4",
+      "id": 2
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$trj7nP04/d8Ppcx18z/vnu9XBkThx64eaval6F99x7o1tY2oBvAeq",
+      "username": "admin",
+      "id": 4
+    },
+    {
+      "email": "manhhung1762001@gmail.com",
+      "password": "$2a$10$ehEp/oeQ3uqrUpCuOmhUleBuPwBjr9B3T0uSfS4/AMmK29jJEqwY.",
+      "username": "hunghmph12714@fpt.edu.vn",
+      "id": 5
+    }
+  ]
+}
